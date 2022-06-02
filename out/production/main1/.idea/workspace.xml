@@ -58,10 +58,110 @@
           <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Assignment4" value="1" />
+          <entry key="AssignmentOnJavaReview5" value="1" />
+          <entry key="java" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="5" />
+          <entry key="PLAIN_TEXT" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Assignment4" value="7" />
+          <entry key="AssignmentOnJavaReview5" value="20" />
+          <entry key="java" value="532" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="532" />
+          <entry key="PLAIN_TEXT" value="27" />
+        </counts>
+      </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ArrayContainsSpecificValue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="39" selection-start-column="13" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Print.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Assignment/Assignment4">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1292">
+              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Computor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+              <folding>
+                <element signature="e#131#132#0" expanded="true" />
+                <element signature="e#167#168#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Assignment/AssignmentOnJavaReview5">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="40" selection-start-column="24" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Computer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+              <folding>
+                <element signature="e#67#68#0" expanded="true" />
+                <element signature="e#99#100#0" expanded="true" />
+                <element signature="e#116#117#0" expanded="true" />
+                <element signature="e#153#154#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Book.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="201">
+              <caret line="58" column="36" selection-start-line="58" selection-start-column="36" selection-end-line="58" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -106,7 +206,11 @@
         <option value="$PROJECT_DIR$/src/main/java/Movie.java" />
         <option value="$PROJECT_DIR$/src/main/java/MultipleOfSecondNumber.java" />
         <option value="$PROJECT_DIR$/src/main/java/Invoice.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Print.java" />
         <option value="$PROJECT_DIR$/src/Assignment/Assignment4" />
+        <option value="$PROJECT_DIR$/src/main/java/Computor.java" />
+        <option value="$PROJECT_DIR$/src/Assignment/AssignmentOnJavaReview5" />
+        <option value="$PROJECT_DIR$/src/main/java/Computer.java" />
       </list>
     </option>
   </component>
@@ -127,7 +231,31 @@
           <expand>
             <path>
               <item name="QAAEB2201Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QAAEB2201Java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QAAEB2201Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QAAEB2201Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QAAEB2201Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QAAEB2201Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Assignment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QAAEB2201Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QAAEB2201Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QAAEB2201Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QAAEB2201Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -170,7 +298,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1653878054380" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1654200540990" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -197,7 +325,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayContainsSpecificValue">
+  <component name="RunManager" selected="Application.Computer">
     <configuration name="ArrayContainsSpecificValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayContainsSpecificValue" />
       <module name="main1" />
@@ -205,9 +333,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Holiday" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Holiday" />
-      <module name="QAAEB2201Java" />
+    <configuration name="Computer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Computer" />
+      <module name="main1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Computor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Computor" />
+      <module name="main1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -219,34 +354,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Movie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Movie" />
-      <module name="QAAEB2201Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MultipleOfSecondNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultipleOfSecondNumber" />
-      <module name="QAAEB2201Java" />
+    <configuration name="Print" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Print" />
+      <module name="main1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Holiday" />
-      <item itemvalue="Application.Movie" />
-      <item itemvalue="Application.MultipleOfSecondNumber" />
       <item itemvalue="Application.Invoice" />
       <item itemvalue="Application.ArrayContainsSpecificValue" />
+      <item itemvalue="Application.Print" />
+      <item itemvalue="Application.Computor" />
+      <item itemvalue="Application.Computer" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Computer" />
+        <item itemvalue="Application.Computor" />
+        <item itemvalue="Application.Print" />
         <item itemvalue="Application.ArrayContainsSpecificValue" />
         <item itemvalue="Application.Invoice" />
-        <item itemvalue="Application.MultipleOfSecondNumber" />
-        <item itemvalue="Application.Movie" />
-        <item itemvalue="Application.Holiday" />
       </list>
     </recent_temporary>
   </component>
@@ -265,6 +393,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1440" height="807" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16111112" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -275,7 +404,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5219236" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.5219236" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -457,13 +586,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ArrayContainsSpecificValue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="39" selection-start-column="13" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/SumFirstTenNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -527,24 +649,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1251">
-          <caret line="58" column="36" selection-start-line="58" selection-start-column="36" selection-end-line="58" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Holiday.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="648">
           <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Assignment/Assignment4">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="23" column="50" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
         </state>
       </provider>
     </entry>
@@ -566,6 +674,65 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="412">
           <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ArrayContainsSpecificValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="39" selection-start-column="13" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Print.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="58" column="36" selection-start-line="58" selection-start-column="36" selection-end-line="58" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assignment/Assignment4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1292">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Computor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assignment/AssignmentOnJavaReview5">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="40" selection-start-column="24" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Computer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+          <folding>
+            <element signature="e#67#68#0" expanded="true" />
+            <element signature="e#99#100#0" expanded="true" />
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

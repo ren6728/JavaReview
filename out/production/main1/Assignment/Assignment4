@@ -22,6 +22,7 @@ StudentGrade...
 6.Write a program with following methods: method "printInfo" which displays name,
 age, phone number and salary of a employee and method "bonus" which displays
 monthly salary of employee after getting 5% bonus.
+Print
 
 7.A person is elligible to vote if his/her age is greater than or equal to 18.
 Define a method to find out if he/she is elligible to vote.
