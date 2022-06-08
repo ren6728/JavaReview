@@ -54,13 +54,13 @@ public class Book {
         return price;
     }
     public static void main(String[] args) {
-        Book b1 = new Book("","",-5);
+        Book b1 = new Book("","",10);
         System.out.println(b1);
-        Book b2 = new Book("","",-32);
+        Book b2 = new Book("","",20);
         System.out.println(b2);
         b2.setTitle("");
         b2.setAuthor("");
-        b2.setPrice(-32);
+        b2.setPrice(80);
         System.out.println(b2);
     }
 
