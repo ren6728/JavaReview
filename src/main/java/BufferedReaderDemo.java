@@ -18,13 +18,13 @@ public class BufferedReaderDemo {
         br.close();
         r.close();
         ////////////// /Users/renxing/QAAEB2201Java/src/Assignment/testout.txt
-        FileReader fr=new FileReader("/Users/renxing/QAAEB2201Java/src/Assignment/testout.txt");
+        FileReader fr=new FileReader("src/Assignment/testout.txt");
         BufferedReader bfr=new BufferedReader(fr);
         int i;
-        while ((i=bfr.read())!=-1) {
-            System.out.println((char)i);
-            bfr.close();
-            fr.close();
+        while ((i=fr.read())!=-1) {
+            System.out.print((char)i);
+           //bfr.close();
+          //fr.close();
         }
         }
     }
