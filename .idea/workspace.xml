@@ -64,13 +64,13 @@
           <entry key="AssignmentOnJavaReview5" value="1" />
           <entry key="JavaBasicAssignment1" value="1" />
           <entry key="SetterAndGetter" value="1" />
-          <entry key="java" value="66" />
+          <entry key="java" value="67" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="66" />
+          <entry key="JAVA" value="67" />
           <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
@@ -80,13 +80,13 @@
           <entry key="AssignmentOnJavaReview5" value="121" />
           <entry key="SetterAndGetter" value="36" />
           <entry key="dummy" value="24" />
-          <entry key="java" value="7403" />
+          <entry key="java" value="7503" />
           <entry key="txt" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="7403" />
+          <entry key="JAVA" value="7503" />
           <entry key="PLAIN_TEXT" value="200" />
         </counts>
       </usages-collector>
@@ -94,15 +94,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/String.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-81505">
-              <caret line="70" column="26" selection-start-line="70" selection-start-column="14" selection-end-line="70" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/izzanschool/lecture23/inheritance/SymbianPhone.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -188,15 +179,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/izzanschool/lecture23/lecture23/FinalDemo1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+            <state relative-caret-position="387">
+              <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
               <folding>
                 <element signature="e#350#351#0" expanded="true" />
                 <element signature="e#378#379#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/izzanschool/lecture23/lecture23/VariableDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="11" column="67" selection-start-line="11" selection-start-column="67" selection-end-line="11" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -229,8 +229,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Invoice.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Print.java" />
         <option value="$PROJECT_DIR$/src/Assignment/Assignment4" />
         <option value="$PROJECT_DIR$/src/main/java/Computor.java" />
         <option value="$PROJECT_DIR$/src/main/java/Computer.java" />
@@ -280,6 +278,8 @@
         <option value="$PROJECT_DIR$/src/com/izzanschool/lecture23/lecture23/StaticDemo3.java" />
         <option value="$PROJECT_DIR$/src/com/izzanschool/lecture23/lecture23/StaticDemo4.java" />
         <option value="$PROJECT_DIR$/src/com/izzanschool/lecture23/lecture23/FinalDemo1.java" />
+        <option value="$PROJECT_DIR$/src/com/izzanschool/lecture23/lecture23/VaraiableDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/izzanschool/lecture23/lecture23/VariableDemo.java" />
       </list>
     </option>
   </component>
@@ -381,7 +381,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1654850866012" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1654851102733" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -408,22 +408,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FinalDemo1">
+  <component name="RunManager" selected="Application.VariableDemo">
     <configuration name="FinalDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.izzanschool.lecture23.lecture23.FinalDemo1" />
-      <module name="main1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.izzanschool.lecture23.lecture23.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StaticDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.izzanschool.lecture23.lecture23.StaticDemo" />
       <module name="main1" />
       <extension name="coverage">
         <pattern>
@@ -481,20 +468,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VariableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.izzanschool.lecture23.lecture23.VariableDemo" />
+      <module name="main1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.izzanschool.lecture23.lecture23.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.StaticDemo" />
       <item itemvalue="Application.StaticDemo2" />
       <item itemvalue="Application.StaticDemo3" />
       <item itemvalue="Application.StaticDemo4" />
       <item itemvalue="Application.FinalDemo1" />
+      <item itemvalue="Application.VariableDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VariableDemo" />
         <item itemvalue="Application.FinalDemo1" />
         <item itemvalue="Application.StaticDemo4" />
         <item itemvalue="Application.StaticDemo3" />
         <item itemvalue="Application.StaticDemo2" />
-        <item itemvalue="Application.StaticDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -515,7 +515,7 @@
     <frame x="0" y="34" width="1440" height="807" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.119444445" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.119444445" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -524,12 +524,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2602546" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2602546" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.34512022" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.34512022" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3200483" />
@@ -586,13 +586,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/StudentGrade.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1350">
-          <caret line="50" column="34" selection-start-line="50" selection-start-column="34" selection-end-line="50" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/MicrosoftOutLook.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1105,12 +1098,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/izzanschool/lecture23/lecture23/FinalDemo1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+        <state relative-caret-position="387">
+          <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
           <folding>
             <element signature="e#350#351#0" expanded="true" />
             <element signature="e#378#379#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/izzanschool/lecture23/lecture23/VariableDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="11" column="67" selection-start-line="11" selection-start-column="67" selection-end-line="11" selection-end-column="67" />
         </state>
       </provider>
     </entry>
