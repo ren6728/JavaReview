@@ -80,13 +80,13 @@
           <entry key="AssignmentOnJavaReview5" value="121" />
           <entry key="SetterAndGetter" value="36" />
           <entry key="dummy" value="24" />
-          <entry key="java" value="9061" />
+          <entry key="java" value="9103" />
           <entry key="txt" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="9061" />
+          <entry key="JAVA" value="9103" />
           <entry key="PLAIN_TEXT" value="200" />
         </counts>
       </usages-collector>
@@ -143,11 +143,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/izzanschool/lecture23/lecture23/Manager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="189">
+              <caret line="7" column="76" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="76" />
               <folding>
                 <element signature="e#328#329#0" expanded="true" />
                 <element signature="e#369#370#0" expanded="true" />
@@ -156,11 +156,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/izzanschool/lecture23/lecture23/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="4" column="86" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="86" />
+            <state relative-caret-position="170">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="e#261#262#0" expanded="true" />
                 <element signature="e#296#297#0" expanded="true" />
@@ -260,8 +260,8 @@
         <option value="$PROJECT_DIR$/src/main/Practices/PracticeForLoop.java" />
         <option value="$PROJECT_DIR$/src/main/Practices/PracticeWhileLoop.java" />
         <option value="$PROJECT_DIR$/src/com/izzanschool/lecture23/lecture23/Member.java" />
-        <option value="$PROJECT_DIR$/src/com/izzanschool/lecture23/lecture23/Employee.java" />
         <option value="$PROJECT_DIR$/src/com/izzanschool/lecture23/lecture23/Manager.java" />
+        <option value="$PROJECT_DIR$/src/com/izzanschool/lecture23/lecture23/Employee.java" />
       </list>
     </option>
   </component>
@@ -350,7 +350,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1654899926500" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1654900186802" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -482,9 +482,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="103" y="31" width="1440" height="807" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.05277778" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1125" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -498,10 +497,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.34512022" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.34512022" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.31966054" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.31966054" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1059,24 +1058,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/izzanschool/lecture23/lecture23/Employee.java">
+    <entry file="file://$PROJECT_DIR$/src/com/izzanschool/lecture23/lecture23/Manager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="4" column="86" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="86" />
+        <state relative-caret-position="189">
+          <caret line="7" column="76" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="76" />
           <folding>
-            <element signature="e#261#262#0" expanded="true" />
-            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/izzanschool/lecture23/lecture23/Manager.java">
+    <entry file="file://$PROJECT_DIR$/src/com/izzanschool/lecture23/lecture23/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="170">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
           <folding>
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
           </folding>
         </state>
       </provider>
