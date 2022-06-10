@@ -1,6 +1,5 @@
 package main.Practices;
-
-public class ForEachLoop {
+public class ForEachLoop{
     public static int maximum(int[] numbers){
 int maxSoFar=numbers[0];
 for(int num: numbers){
