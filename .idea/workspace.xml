@@ -64,13 +64,13 @@
           <entry key="AssignmentOnJavaReview5" value="1" />
           <entry key="JavaBasicAssignment1" value="1" />
           <entry key="SetterAndGetter" value="1" />
-          <entry key="java" value="67" />
+          <entry key="java" value="75" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="67" />
+          <entry key="JAVA" value="75" />
           <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
@@ -80,13 +80,13 @@
           <entry key="AssignmentOnJavaReview5" value="121" />
           <entry key="SetterAndGetter" value="36" />
           <entry key="dummy" value="24" />
-          <entry key="java" value="7503" />
+          <entry key="java" value="9061" />
           <entry key="txt" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="7503" />
+          <entry key="JAVA" value="9061" />
           <entry key="PLAIN_TEXT" value="200" />
         </counts>
       </usages-collector>
@@ -94,91 +94,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/izzanschool/lecture23/inheritance/SymbianPhone.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/izzanschool/lecture23/inheritance/PreN1100.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-              <folding>
-                <element signature="e#142#143#0" expanded="true" />
-                <element signature="e#196#197#0" expanded="true" />
-                <element signature="e#236#237#0" expanded="true" />
-                <element signature="e#285#286#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/izzanschool/lecture23/inheritance/N1100.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/izzanschool/lecture23/inheritance/N3600.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-              <folding>
-                <element signature="e#106#107#0" expanded="true" />
-                <element signature="e#157#158#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/izzanschool/lecture23/lecture23/StaticDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="26" column="40" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
-              <folding>
-                <element signature="e#92#93#0" expanded="true" />
-                <element signature="e#128#129#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/izzanschool/lecture23/lecture23/StaticDemo3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
-              <folding>
-                <element signature="e#378#379#0" expanded="true" />
-                <element signature="e#393#394#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/izzanschool/lecture23/lecture23/StaticDemo4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-              <folding>
-                <element signature="e#178#179#0" expanded="true" />
-                <element signature="e#222#223#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/izzanschool/lecture23/lecture23/FinalDemo1.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -192,24 +107,91 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/izzanschool/lecture23/lecture23/VariableDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
+            <state relative-caret-position="297">
               <caret line="11" column="67" selection-start-line="11" selection-start-column="67" selection-end-line="11" selection-end-column="67" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/izzanschool/lecture23/lecture23/StaticDemo2.java">
+        <entry file="file://$PROJECT_DIR$/src/main/Practices/PracticeForLoop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+            <state relative-caret-position="270">
+              <caret line="10" column="61" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Practices/PracticeWhileLoop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="146">
+              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/izzanschool/lecture23/lecture23/Member.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/izzanschool/lecture23/lecture23/Manager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="223">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
               <folding>
-                <element signature="e#265#266#0" expanded="true" />
-                <element signature="e#301#302#0" expanded="true" />
+                <element signature="e#328#329#0" expanded="true" />
+                <element signature="e#369#370#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/izzanschool/lecture23/lecture23/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="4" column="86" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="86" />
+              <folding>
+                <element signature="e#261#262#0" expanded="true" />
+                <element signature="e#296#297#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Practices/ForEachLoop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-52">
+              <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Practices/WhileLoopDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Practices/ForLoopExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="619">
+              <caret line="25" column="45" lean-forward="true" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -229,11 +211,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Assignment/Assignment4" />
-        <option value="$PROJECT_DIR$/src/main/java/Computor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Computer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Respective.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ChromeBrowser.java" />
         <option value="$PROJECT_DIR$/src/main/java/MicrosoftOutLook.java" />
         <option value="$PROJECT_DIR$/src/Assignment/AssignmentOnJavaReview5" />
         <option value="$PROJECT_DIR$/src/main/java/Calculator.java" />
@@ -280,11 +257,17 @@
         <option value="$PROJECT_DIR$/src/com/izzanschool/lecture23/lecture23/FinalDemo1.java" />
         <option value="$PROJECT_DIR$/src/com/izzanschool/lecture23/lecture23/VaraiableDemo.java" />
         <option value="$PROJECT_DIR$/src/com/izzanschool/lecture23/lecture23/VariableDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/Practices/PracticeForLoop.java" />
+        <option value="$PROJECT_DIR$/src/main/Practices/PracticeWhileLoop.java" />
+        <option value="$PROJECT_DIR$/src/com/izzanschool/lecture23/lecture23/Member.java" />
+        <option value="$PROJECT_DIR$/src/com/izzanschool/lecture23/lecture23/Employee.java" />
+        <option value="$PROJECT_DIR$/src/com/izzanschool/lecture23/lecture23/Manager.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="34" />
+    <option name="x" value="103" />
+    <option name="y" value="31" />
     <option name="width" value="1440" />
     <option name="height" value="807" />
   </component>
@@ -325,20 +308,6 @@
               <item name="QAAEB2201Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="QAAEB2201Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QAAEB2201Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="QAAEB2201Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QAAEB2201Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="Practices" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -381,7 +350,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1654851102733" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1654899926500" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -408,9 +377,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.VariableDemo">
-    <configuration name="FinalDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.izzanschool.lecture23.lecture23.FinalDemo1" />
+  <component name="RunManager" selected="Application.Employee">
+    <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.izzanschool.lecture23.lecture23.Employee" />
       <module name="main1" />
       <extension name="coverage">
         <pattern>
@@ -422,8 +391,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.izzanschool.lecture23.lecture23.StaticDemo2" />
+    <configuration name="Manager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.izzanschool.lecture23.lecture23.Manager" />
       <module name="main1" />
       <extension name="coverage">
         <pattern>
@@ -435,12 +404,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.izzanschool.lecture23.lecture23.StaticDemo3" />
+    <configuration name="PracticeForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Practices.PracticeForLoop" />
       <module name="main1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.izzanschool.lecture23.lecture23.*" />
+          <option name="PATTERN" value="main.Practices.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -448,12 +417,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.izzanschool.lecture23.lecture23.StaticDemo4" />
+    <configuration name="PracticeWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Practices.PracticeWhileLoop" />
       <module name="main1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.izzanschool.lecture23.lecture23.*" />
+          <option name="PATTERN" value="main.Practices.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -482,19 +451,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.StaticDemo2" />
-      <item itemvalue="Application.StaticDemo3" />
-      <item itemvalue="Application.StaticDemo4" />
-      <item itemvalue="Application.FinalDemo1" />
       <item itemvalue="Application.VariableDemo" />
+      <item itemvalue="Application.PracticeForLoop" />
+      <item itemvalue="Application.PracticeWhileLoop" />
+      <item itemvalue="Application.Employee" />
+      <item itemvalue="Application.Manager" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Employee" />
+        <item itemvalue="Application.Manager" />
+        <item itemvalue="Application.PracticeWhileLoop" />
+        <item itemvalue="Application.PracticeForLoop" />
         <item itemvalue="Application.VariableDemo" />
-        <item itemvalue="Application.FinalDemo1" />
-        <item itemvalue="Application.StaticDemo4" />
-        <item itemvalue="Application.StaticDemo3" />
-        <item itemvalue="Application.StaticDemo2" />
       </list>
     </recent_temporary>
   </component>
@@ -512,10 +481,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="34" width="1440" height="807" extended-state="0" />
+    <frame x="103" y="31" width="1440" height="807" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.119444445" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.05277778" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -524,15 +493,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2602546" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39886847" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.34512022" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.34512022" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3200483" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.31966054" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -586,51 +555,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/MicrosoftOutLook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="29" lean-forward="true" selection-start-column="13" selection-end-column="29" />
-          <folding>
-            <element signature="e#129#130#0" expanded="true" />
-            <element signature="e#157#158#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CompareNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/AverageThreeNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/TextEditor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-          <folding>
-            <element signature="e#286#287#0" expanded="true" />
-            <element signature="e#322#323#0" expanded="true" />
-            <element signature="e#382#383#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Assignment/AssignmentOnJavaReview5">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/IfElseDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -957,20 +881,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Practices/ForLoopExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="25" column="45" lean-forward="true" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Practices/WhileLoopDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/Practices/DoWhileLoopDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="94">
@@ -997,13 +907,6 @@
             <element signature="e#1221#1222#0" expanded="true" />
             <element signature="e#1249#1250#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Practices/ForEachLoop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -1109,8 +1012,72 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/izzanschool/lecture23/lecture23/VariableDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
+        <state relative-caret-position="297">
           <caret line="11" column="67" selection-start-line="11" selection-start-column="67" selection-end-line="11" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Practices/ForLoopExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="619">
+          <caret line="25" column="45" lean-forward="true" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Practices/WhileLoopDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Practices/ForEachLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-52">
+          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Practices/PracticeForLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="61" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Practices/PracticeWhileLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/izzanschool/lecture23/lecture23/Member.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/izzanschool/lecture23/lecture23/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="4" column="86" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="86" />
+          <folding>
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/izzanschool/lecture23/lecture23/Manager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
