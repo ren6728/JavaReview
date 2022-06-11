@@ -6,8 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="main1" />
         <module name="QAAEB2201Java" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="it.school" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
