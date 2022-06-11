@@ -83,13 +83,13 @@
           <entry key="AssignmentOnJavaReview5" value="121" />
           <entry key="SetterAndGetter" value="36" />
           <entry key="dummy" value="24" />
-          <entry key="java" value="9203" />
+          <entry key="java" value="9205" />
           <entry key="txt" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="9203" />
+          <entry key="JAVA" value="9205" />
           <entry key="PLAIN_TEXT" value="200" />
         </counts>
       </usages-collector>
@@ -154,7 +154,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/ArrayListDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="297">
-              <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+              <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
               <folding>
                 <element signature="e#205#213#0" expanded="true" />
               </folding>
@@ -292,6 +292,34 @@
             <path>
               <item name="QAAEB2201Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="QAAEB2201Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QAAEB2201Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QAAEB2201Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="lecture23" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QAAEB2201Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QAAEB2201Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="lecture23" type="462c0819:PsiDirectoryNode" />
+              <item name="lecture2302" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QAAEB2201Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QAAEB2201Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="Practices" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QAAEB2201Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QAAEB2201Java" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -335,7 +363,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1654907717451" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1654908471899" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -459,7 +487,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25138888" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25138888" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -468,12 +496,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.39855072" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39855072" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.294686" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.294686" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3188406" />
@@ -1044,7 +1072,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/ArrayListDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
-          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
           <folding>
             <element signature="e#205#213#0" expanded="true" />
           </folding>
